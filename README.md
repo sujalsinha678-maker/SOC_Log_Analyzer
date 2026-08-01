@@ -39,14 +39,9 @@ python analyzer.py
 
 ## Sample Output
 
-SOC SECURITY REPORT
+## Sample Output
 
-Total Logs Analyzed : 1000
-Unique IP Addresses : 13
-Successful Logins : 722
-Failed Logins : 278
-Blacklisted IPs : 5
-Overall Threat Level : CRITICAL
+![SOC Log Analyzer Output](screenshot.png)
 
 ## What I Learned
 
