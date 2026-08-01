@@ -34,10 +34,7 @@ SOC_Log_Analyzer/
 1. Clone the repository
 2. Install Python
 3. Run:
-
 python analyzer.py
-
-## Sample Output
 
 ## Sample Output
 
@@ -59,7 +56,5 @@ python analyzer.py
 - SIEM integration
 - Threat intelligence API integration
 
-
 ## Author
-
 Sujal Kumar
